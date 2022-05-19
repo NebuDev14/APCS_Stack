@@ -2,7 +2,7 @@ public class StackExpTestDay2
 {
 	public static String infix2Postfix(String infix)
 	{
-		//write your code here
+    return "-";
 	}
 	
   public static void main(String[] args)
